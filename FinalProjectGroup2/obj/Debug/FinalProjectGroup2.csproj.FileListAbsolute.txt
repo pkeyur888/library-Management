@@ -1,0 +1,14 @@
+C:\Users\kpatel3\Documents\FinalProjectGroup2\FinalProjectGroup2\bin\Debug\FinalProjectGroup2.exe.config
+C:\Users\kpatel3\Documents\FinalProjectGroup2\FinalProjectGroup2\bin\Debug\FinalProjectGroup2.exe
+C:\Users\kpatel3\Documents\FinalProjectGroup2\FinalProjectGroup2\bin\Debug\FinalProjectGroup2.pdb
+C:\Users\kpatel3\Documents\FinalProjectGroup2\FinalProjectGroup2\obj\Debug\FinalProjectGroup2.csprojAssemblyReference.cache
+C:\Users\kpatel3\Documents\FinalProjectGroup2\FinalProjectGroup2\obj\Debug\MainWindow.g.cs
+C:\Users\kpatel3\Documents\FinalProjectGroup2\FinalProjectGroup2\obj\Debug\App.g.cs
+C:\Users\kpatel3\Documents\FinalProjectGroup2\FinalProjectGroup2\obj\Debug\FinalProjectGroup2_MarkupCompile.cache
+C:\Users\kpatel3\Documents\FinalProjectGroup2\FinalProjectGroup2\obj\Debug\FinalProjectGroup2_MarkupCompile.lref
+C:\Users\kpatel3\Documents\FinalProjectGroup2\FinalProjectGroup2\obj\Debug\MainWindow.baml
+C:\Users\kpatel3\Documents\FinalProjectGroup2\FinalProjectGroup2\obj\Debug\FinalProjectGroup2.g.resources
+C:\Users\kpatel3\Documents\FinalProjectGroup2\FinalProjectGroup2\obj\Debug\FinalProjectGroup2.Properties.Resources.resources
+C:\Users\kpatel3\Documents\FinalProjectGroup2\FinalProjectGroup2\obj\Debug\FinalProjectGroup2.csproj.GenerateResource.cache
+C:\Users\kpatel3\Documents\FinalProjectGroup2\FinalProjectGroup2\obj\Debug\FinalProjectGroup2.exe
+C:\Users\kpatel3\Documents\FinalProjectGroup2\FinalProjectGroup2\obj\Debug\FinalProjectGroup2.pdb
